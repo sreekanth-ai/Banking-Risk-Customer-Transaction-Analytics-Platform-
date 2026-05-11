@@ -75,6 +75,8 @@ Columns:
 
 # Key Analysis Performed
 
+Check Visalisation here: [Visual Analysis of Queries](/Visualisations/)
+
 ## 1. Total Balance Per Customer
 
 Calculated the total account balance for each customer.
