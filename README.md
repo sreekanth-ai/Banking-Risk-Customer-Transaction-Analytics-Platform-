@@ -1,10 +1,12 @@
-# Banking Analytics SQL Project
+# Financial Bank Transaction SQL Project
 
 ## Project Overview
 
 This project is a Banking Analytics SQL Project developed using SQL and Python visualization libraries. The project demonstrates database creation, table relationships, data analysis, window functions, aggregate functions, and business analytics queries.
 
 The project is designed to strengthen SQL concepts for Data Analyst and Data Science roles.
+
+SQL queries? check them out here: [SQL_Queries_for_this_Project](/Financial_bank_transaction_analysis/)
 
 ---
 
@@ -54,28 +56,6 @@ Columns:
 * transaction_date
 * amount
 * transaction_type
-
----
-
-# SQL Concepts Covered
-
-* SELECT Statement
-* WHERE Clause
-* GROUP BY
-* ORDER BY
-* Aggregate Functions
-* COUNT()
-* SUM()
-* AVG()
-* MAX()
-* CASE Statement
-* INNER JOIN
-* LEFT JOIN
-* HAVING Clause
-* Window Functions
-* Running Total
-* Aliases
-* Data Analysis Queries
 
 ---
 
@@ -142,7 +122,7 @@ Python Matplotlib library was used to create:
 * Python
 * Pandas
 * Matplotlib
-* VS Code
+* Google Colab
 * GitHub
 
 ---
@@ -151,15 +131,13 @@ Python Matplotlib library was used to create:
 
 Through this project, I learned:
 
-* SQL query writing
-* Database relationships
-* Aggregate functions
-* Window functions
-* Data analysis techniques
-* Business analytics queries
-* Data visualization
-* GitHub project organization
-
+- To design a normalized relational database with customers, accounts, and transactions.
+- To write complex SQL queries using JOINs, aggregations, and CTEs.
+- To apply window functions to rank customers and calculate running balances.
+- To perform monthly transaction trend analysis and identify dormant accounts.
+- Implemented basic fraud and risk detection logic using transaction behavior.
+- Optimized query performance with indexing strategies.
+  
 ---
 
 # Future Improvements
@@ -172,12 +150,8 @@ Through this project, I learned:
 
 ---
 
-# Author
+## Conclusion
 
-Sreekanth Polu
+This project demonstrates the use of SQL and Python for analyzing banking transaction data. It covers database design, data analysis, window functions, and data visualization to generate meaningful insights such as customer balances, transaction trends, and dormant accounts. The project helped strengthen my SQL, analytical, and data visualization skills through real-world banking analytics scenarios.
 
 ---
-
-# Conclusion
-
-This project demonstrates practical SQL skills used in banking analytics and financial data analysis. It is useful for SQL practice, interview preparation, portfolio building, and data analyst projects.
