@@ -6,7 +6,7 @@ This project is a Banking Analytics SQL Project developed using SQL and Python v
 
 The project is designed to strengthen SQL concepts for Data Analyst and Data Science roles.
 
-SQL queries? check them out here: [SQL_Queries_for_this_Project](/Financial_bank_transaction_analysis/)
+SQL queries? check them out here: [SQL_Queries](/Financial_bank_transaction_analysis/)
 
 ---
 
@@ -75,7 +75,7 @@ Columns:
 
 # Key Analysis Performed
 
-Check Visalisation here: [Visual Analysis of Queries](/Visualisations/)
+Check Visualisation here: [Query Analysis](/Visualisations/)
 
 ## 1. Total Balance Per Customer
 
@@ -88,6 +88,8 @@ Identified customers with the highest balances.
 ## 3. Monthly Credit vs Debit Analysis
 
 Compared monthly credit and debit transaction amounts.
+
+![Banking Dashboard](Images/Monthly Credit vs Debit Analysis.png)
 
 ## 4. Running Balance Calculation
 
@@ -137,8 +139,6 @@ Through this project, I learned:
 - To write complex SQL queries using JOINs, aggregations, and CTEs.
 - To apply window functions to rank customers and calculate running balances.
 - To perform monthly transaction trend analysis and identify dormant accounts.
-- Implemented basic fraud and risk detection logic using transaction behavior.
-- Optimized query performance with indexing strategies.
   
 ---
 
