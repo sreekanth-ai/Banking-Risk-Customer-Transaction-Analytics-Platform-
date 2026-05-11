@@ -81,7 +81,7 @@ Check Visualisation here: [Query Analysis](/Visualisations/)
 
 Calculated the total account balance for each customer.
 
-![Banking Dashboard](Images/Total_Balance_for_Customer.png)
+![Banking Dashboard](Visualisations/Total_Balance_for_Customer.png)
 
 ## 2. Top Customers by Account Balance
 
@@ -95,7 +95,7 @@ Compared monthly credit and debit transaction amounts.
 
 Calculated cumulative running balance using SQL window functions.
 
-![Banking Dashboard](Images/Running_Balance_Per_Account.png)
+![Banking Dashboard](Visualisations/Running_Balance_Per_Account.png)
 
 ## 5. Number of Transactions Per Account
 
