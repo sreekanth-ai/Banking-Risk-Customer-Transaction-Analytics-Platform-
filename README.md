@@ -150,7 +150,7 @@ Through this project, I learned:
 
 ---
 
-## Conclusion
+# Conclusion
 
 This project demonstrates the use of SQL and Python for analyzing banking transaction data. It covers database design, data analysis, window functions, and data visualization to generate meaningful insights such as customer balances, transaction trends, and dormant accounts. The project helped strengthen my SQL, analytical, and data visualization skills through real-world banking analytics scenarios.
 
