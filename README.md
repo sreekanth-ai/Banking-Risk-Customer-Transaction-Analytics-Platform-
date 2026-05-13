@@ -1,4 +1,4 @@
-#  Banking Risk & Customer Transaction Analytics Platform (SQL | Python | Power BI)
+#  Banking Risk & Customer Transaction Analytics Platform 
 
 ## Project Overview
 
