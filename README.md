@@ -1,4 +1,4 @@
-# Financial Bank Transaction SQL Project
+#  Banking Risk & Customer Transaction Analytics Platform (SQL | Python | Power BI)
 
 ## Project Overview
 
